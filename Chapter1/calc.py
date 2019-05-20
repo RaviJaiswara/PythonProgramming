@@ -17,4 +17,6 @@
 # exponents
 # print(2**3**2)
 # (2**9)
+
+/////////Ravi Jaiswara
 print(2**9)
